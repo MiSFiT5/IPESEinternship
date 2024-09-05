@@ -42,7 +42,7 @@ Go to the Folder 16000Experiment and run the following command in Terminal
 ```bash
 pip install -r requirements.txt
 ```
-### Give it a GO
+### Give it A GO
 With the Environment established, 
 
 RUN in Ternimal
@@ -51,7 +51,7 @@ python main.py
 ```
 
 Remeber to set up the preferences of the iteration numbers. Actually the points selected by each iteration could be considered as Typical, because of the redundancy of the repeated configurations and super close distributions.
-
+----
 ## LLM aided Decision Making
 
 Organizing will be deployed soon.
