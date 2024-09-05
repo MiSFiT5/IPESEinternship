@@ -56,4 +56,6 @@ First, make sure about you have a OpenAI API key.
 Stored in the RL.ipynb.
 
 It still a raw code file, working on how to make it more clear.
+
+The Multi-head Attention Mechanism and Shared Layer + Individual Layer Design with DDPG framework safeguards the configuration units control with changing market conditions and reach zero violations
 ![DDPG framework for Multi-Objective Control](IMGforMD/DDPGwithattention.svg)
