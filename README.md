@@ -2,11 +2,18 @@
 
 The internship project in EPFL IPESE lab
 
-Author: Heyuan Liu M2 MSc&T AiViC student @ École Polytechnique Email: heyuan.liu@polytechnique.edu 
+Author: 
+Heyuan Liu 
+
+M2 MSc&T AiViC student @ École Polytechnique 
+
+Email: heyuan.liu@polytechnique.edu 
 
 Title: Identify optimal configuration with a machine learning method in multi-criteria decision analysis
 
-Under Supervision of Professor Francois Maréchal and Mr. Yi Zhao @ Industrial Process Energy System Engineering (IPESE) lab in EPFL
+Under Supervision of 
+
+Professor Francois Maréchal and Mr. Yi Zhao @ Industrial Process Energy System Engineering (IPESE) lab in EPFL
 
 ## Shape Algorithms for Typical Solution Identifications
 ### To Be Completed
