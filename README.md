@@ -7,6 +7,9 @@ Author: Heyuan Liu M2 MSc&T AiViC student Email: heyuan.liu@polytechnique.edu
 Title: Identify optimal configuration with a machine learning method in multi-criteria decision analysis
 
 ## Shape Algorithms for Typical Solution Identifications
+### To Be Completed
+Data Format is ruled and we are considering to add a small scale of data to it. So currently there is no valid dataset in any folder, but coming soon...
+
 
 In the Folder of 16000Experiment, There are several Python files which are components of the Typical Solution Selectors. 
 
