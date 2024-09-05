@@ -51,7 +51,8 @@ python main.py
 ```
 
 Remeber to set up the preferences of the iteration numbers. Actually the points selected by each iteration could be considered as Typical, because of the redundancy of the repeated configurations and super close distributions.
-----
+
+------
 ## LLM aided Decision Making
 
 Organizing will be deployed soon.
@@ -61,6 +62,9 @@ Organizing will be deployed soon.
 First, make sure about you have a OpenAI API key.
 
 ![Self-iterative LLM aided Decision Making](IMGforMD/LLMinteraction.png)
+
+------
+
 
 ## Reinforcement Learning for Real-Time Multi-Objective Control
 
