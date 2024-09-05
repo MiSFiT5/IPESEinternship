@@ -19,7 +19,12 @@ Professor Francois Maréchal and Mr. Yi Zhao @ Industrial Process Energy System 
 
 ## Shape Algorithms for Typical Solution Identifications
 ### To Be Completed
-Data Format is ruled and we are considering to add a small scale of data to it. So currently there is no valid dataset in any folder, but coming soon...
+
+Data Format is ruled
+
+***Original Dataset is not available for now and we are considering to add a small scale of data.***
+
+***Coming soon***
 
 
 ![Methodology for Typical Solution Identifications](IMGforMD/Progress.png)
