@@ -79,3 +79,19 @@ It still a raw code file, working on how to make it more clear.
 
 The **Multi-head Attention Mechanism** and **Shared Layer + Individual Layer** Design within **DDPG** framework safeguards the configuration units control with changing market conditions and reach zero violations
 ![DDPG framework for Multi-Objective Control](IMGforMD/DDPGwithattention.svg)
+
+And for the curves of the training procedure,
+We divided into two experiments test on the same conditions.
+ - The first experiment is only based on **Shared Layer + Individual Layer**
+ - The second experiment is plus the **Multi-head Attention Mechanism**
+
+
+With Multiple Objectives Oriented Reward functions. And the variables in environment are all varied respect to the normal distribution.
+
+**Shared & Individual Layer only**
+
+![Self-iterative LLM aided Decision Making](IMGforMD/RLnoattention.png)
+
+**Shared & Individual Layer + Multi-head Attention Mechanism**
+
+![Self-iterative LLM aided Decision Making](IMGforMD/RLAttention.png)
