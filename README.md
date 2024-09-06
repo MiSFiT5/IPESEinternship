@@ -90,7 +90,7 @@ With Multiple Objectives Oriented Reward functions. And the variables in environ
 
 **Shared & Individual Layer only**
 
-![Self-iterative LLM aided Decision Making](IMGforMD/RLnoattention.png)
+![Self-iterative LLM aided Decision Making](IMGforMD/RLnoAttention.png)
 
 **Shared & Individual Layer + Multi-head Attention Mechanism**
 
