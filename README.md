@@ -68,6 +68,11 @@ First, make sure about you have a OpenAI API key.
 
 ![Self-iterative LLM aided Decision Making](IMGforMD/LLMinteraction.png)
 
+
+We enable the LLM (GPT4o from OpenAI) to interact with the data iteratively, based on the representations from the radar map to modify the strategy of assignment of the weights to achieve the convergence of the most optimal configurations with specific preferences in human's insights.
+
+In some random iterations with Impact Oriented Multi Criteria Decision Analysis.
+![LLM aided Decision Making](IMGforMD/AIRadarMap.png)
 ------
 
 
@@ -90,8 +95,8 @@ With Multiple Objectives Oriented Reward functions. And the variables in environ
 
 **Shared & Individual Layer only**
 
-![Self-iterative LLM aided Decision Making](IMGforMD/RLnoAttention.png)
+![RL Metrics Curves without Attention Mechanism](IMGforMD/RLnoAttention.png)
 
 **Shared & Individual Layer + Multi-head Attention Mechanism**
 
-![Self-iterative LLM aided Decision Making](IMGforMD/RLAttention.png)
+![RL Metrics Curves with Attention Mechanism](IMGforMD/RLAttention.png)
