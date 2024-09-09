@@ -2,6 +2,7 @@
 
 
 <img src = "https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 The internship project in EPFL IPESE lab
 
 Author: 
