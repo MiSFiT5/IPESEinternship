@@ -1,5 +1,7 @@
 # Internship in IPESE lab
 
+
+<img src = "https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 The internship project in EPFL IPESE lab
 
 Author: 
