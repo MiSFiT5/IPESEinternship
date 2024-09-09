@@ -57,10 +57,33 @@ python main.py
 
 Remember to set up the preferences of the iteration numbers. Actually the points selected by each iteration could be considered as Typical, because of the redundancy of the repeated configurations and super close distributions.
 
+## Uses LLM to explain the Configurations selected
+
+In the Notebook **LLM4Explain**, you could find the code for explanation with LLM.
+
+**Note**
+ - the code requires a OpenAI API key, which could be obtained from the OpenAI website.
+ - Run with a virtual environment with Anaconda is recommended.
+
+**Environment**
+ - Python 3.9.19
+ - OpenAI 1.12.0
+
+
+
+
 ------
 # LLM aided Decision Making
 
-Organizing will be deployed soon.
+Organizing, and will be deployed soon.
+
+**Note**
+ - the code requires a OpenAI API key, which could be obtained from the OpenAI website.
+ - Run with a virtual environment with Anaconda is recommended.
+
+**Environment**
+ - Python 3.9.19
+ - OpenAI 1.12.0
 
 ![Methodology for LLM Solution Identifications](IMGforMD/LLM_progress.png)
 
@@ -82,6 +105,8 @@ In some random iterations with Impact Oriented Multi Criteria Decision Analysis.
 Stored in the RL.ipynb.
 
 It still a raw code file, working on how to make it more clear.
+
+Environment established by OpenAI Gym.
 
 The **Multi-head Attention Mechanism** and **Shared Layer + Individual Layer** Design within **DDPG** framework safeguards the configuration units control with changing market conditions and reach zero violations
 ![DDPG framework for Multi-Objective Control](IMGforMD/DDPGwithattention.svg)
